@@ -1,5 +1,5 @@
 - 👋 Hi, I am Subrat Patnaik, a software developer working mostly into Automotive (AD, ADAS) and Cybersecurity (Cryptography, Blockchain and Embedded Security)
-- 👀 I’m interested in working/improving in the fields of Automotive Security + IOT security.
+- 👀 I’m interested in working/improving my knowledge in the fields of Automotive Security + IOT security.
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on research on security in device to device/cloud communication.
 - 📫 Feel free to reach out at - subrat17june@outook.com
