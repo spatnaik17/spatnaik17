@@ -8,7 +8,7 @@
 ## 🚀 Current Focus  
 - Researching in AI and ML Security (Trustworthy and Explainable AI/ML)
 - Building **AI-driven Security Solutions**
-- Designing **Automotive Digital Forensics**   
+- Research & Designing **Digital Forensics** solutions.   
 - Creating **AI Security Assessment Frameworks** that integrate with enterprise security 
 
 ## 💡 Collaboration & Research  
