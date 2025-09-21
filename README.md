@@ -1,10 +1,27 @@
-- 👋 Hi, I am Subrat Patnaik, a software developer working mostly into Automotive (AD, ADAS) and Cybersecurity (Cryptography, Blockchain and Embedded Security)
-- 👀 I’m interested in working/improving my knowledge in the fields of Automotive Security + IOT security.
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on research on security in device to device/cloud communication.
-- 📫 Feel free to reach out at - subrat17june@outook.com
+# 👋 Hi, I'm Subrat Patnaik  
 
-<!---
-spatnaik17/spatnaik17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔐 About Me  
+- **Cybersecurity and Product Security Architect**  
+- 16+ years of experience in **Software Systems Development, Architecture, and Security**  
+- Research interests in **AI Security, Automotive Cybersecurity, Quantum Computing, and Post-Quantum Cryptography**  
+
+## 🚀 Current Focus  
+- Researching in AI and ML Security (Trustworthy and Explainable AI/ML)
+- Building **AI-driven Security Solutions**
+- Designing **Automotive Digital Forensics**   
+- Creating **AI Security Assessment Frameworks** that integrate with enterprise security 
+
+## 💡 Collaboration & Research  
+- Open to collaborating on projects in:  
+  - **AI & ML Security**  
+  - **Automotive & Embedded Security**  
+  - **Post-Quantum Cryptography**  
+  - **Digital Forensics using AI**  
+
+## 📫 Get in Touch  
+- 📧 Email: [subrat17june@outlook.com](mailto:subrat17june@outlook.com)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/subrat-patnaik-)  
+- 📝 Publications & projects coming soon...  
+
+---
+✨ *Always exploring how to build secure, resilient, and trustworthy digital systems.*  
