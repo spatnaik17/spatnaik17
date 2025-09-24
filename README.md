@@ -2,7 +2,7 @@
 
 ## 🔐 About Me  
 - **Cybersecurity and Product Security Architect**  
-- 16+ years of experience in **Software Systems Development, Architecture, and Security**  
+- XX years experience in **Software Systems Development, Architecture, and Security**  
 - Research interests in **AI Security, Automotive Cybersecurity, Quantum Computing, and Post-Quantum Cryptography**  
 
 ## 🚀 Current Focus  
