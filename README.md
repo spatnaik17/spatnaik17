@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Subrat Patnaik  
 
 ## 🔐 About Me  
-- **Cybersecurity and Product Security Architect**  
-- XX years experience in **Information Systems Development, Architecture, and Security**  
-- Research interests in **AI Security, Automotive Cybersecurity, Quantum Computing, and Post-Quantum Cryptography**  
+- **Security Architect**
 
 ## 🚀 Current Focus  
 - Researching in AI and ML Security (Trustworthy and Explainable AI/ML)
