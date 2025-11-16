@@ -4,6 +4,7 @@
 - **Security Architect**
 
 ## 🚀 Current Focus  
+- Cybersecurity, Product Security, Application Security, AI Security
 - Researching in AI and ML Security (Trustworthy and Explainable AI/ML)
 - Building **AI-driven Security Solutions**
 - Research & Designing **Digital Forensics** solutions.   
