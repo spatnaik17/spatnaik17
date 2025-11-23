@@ -17,10 +17,10 @@
   - **Post-Quantum Cryptography**  
   - **Digital Forensics using AI**  
 
-## 📫 Get in Touch  
+## 📫 Contact
 - 📧 Email: [subrat17june@outlook.com](mailto:subrat17june@outlook.com)  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/subrat-patnaik-)  
-- 📝 Publications & projects coming soon...  
+- 📝 Projects : coming soon...  
 
 ---
 ✨ *Always exploring how to build secure, resilient, and trustworthy digital systems.*  
