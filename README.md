@@ -11,11 +11,11 @@
 - Creating **AI Security Assessment Frameworks** that integrate with enterprise security 
 
 ## 💡 Collaboration & Research  
-- Open to collaborating on projects in:  
-  - **AI & ML Security**  
-  - **Automotive & Embedded Security**  
-  - **Post-Quantum Cryptography**  
-  - **Digital Forensics using AI**  
+- **AI & ML Security**
+- **Security using AI & ML**  
+- **Automotive & Embedded Security**  
+- **Post-Quantum Cryptography**  
+- **Digital Forensics using AI**  
 
 ## 📫 Contact
 - 📧 Email: [subrat17june@outlook.com](mailto:subrat17june@outlook.com)  
