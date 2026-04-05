@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Subrat Patnaik  
 
 ## 🔐 About Me  
-- **Security Architect**
+- **Security Researcher/Architect**
 
 ## 🚀 Current Focus  
 - Cybersecurity, Product Security, Application Security, AI Security
